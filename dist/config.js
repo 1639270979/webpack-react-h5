@@ -1,0 +1,1 @@
+window.getConfig={version:"1.0.1",appid:"2021042722340916",serviceid:"C645891",ticketPadKey:"SY87E3C9255AB744B280DCD73D93C51A",clientId:"zfbzPro",role:"admin",host:"http://113.125.201.131:18082",staticUrl:"http://113.125.201.131:18082",previewHost:"http://113.125.201.131:18082",ywfl:"05",cplx:"zfbzPro",hjlb:""};
